@@ -1,0 +1,8 @@
+*{
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+.seccion > img {
+    width: 500;
+}
